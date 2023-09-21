@@ -1,4 +1,6 @@
 # HungryKokonachan
-ブルーアーカイブ2周年ファンアートゲーム「ハングリーココナちゃん」
-プレイは以下URLから
-https://unityroom.com/games/hungrykokonachan
+## 概要
+ブルーアーカイブ2周年ファンアートゲーム「ハングリーココナちゃん」<br>
+プレイは以下URLから <br>
+https://unityroom.com/games/hungrykokonachan <br>
+
