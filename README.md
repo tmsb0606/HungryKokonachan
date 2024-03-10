@@ -1,4 +1,6 @@
 # HungryKokonachan
+![kokona](https://github.com/tmsb0606/HungryKokonachan/assets/120014601/8e474f73-3b3d-4282-ad62-0b68ec07adea)
+
 ## 概要
 ブルーアーカイブ2周年ファンアートゲーム「ハングリーココナちゃん」<br>
 プレイは以下URLから <br>
