@@ -6,6 +6,8 @@ https://unityroom.com/games/hungrykokonachan <br>
 [!['デモ映像'](https://github.com/tmsb0606/HungryKokonachan/assets/120014601/39a801fb-71b8-418a-90ce-c5dd7e15e459)](https://youtu.be/Oc05LSGnynE?si=tRgL2RTjDiHyD-kh)
 
 ## 概要
+開発背景：ブルーアーカイブの2周年イベントでブルアカ関連の創作物を運営が募集していた。そこで、自分の好きなゲームを開発し提出することにした。<br>
+
 開発期間：約1週間 <br>
 開発環境：Unity <br>
 開発言語：C# <br>
